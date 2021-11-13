@@ -2,6 +2,7 @@
   "name": "ecma-script-6-course",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \\\"Error: no src/test specified\\\" && exit 1"
@@ -9,4 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+
 }

@@ -1,17 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4218617a-8fa3-49c7-8033-81d89e3c0b5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ecma-script-6-course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/class/father.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/class/son.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/class/star.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test-class.js" afterDir="false" />
+    <list default="true" id="4218617a-8fa3-49c7-8033-81d89e3c0b5e" name="Default Changelist" comment="2021-07-30 21:00:00 es6~">
+      <change afterPath="$PROJECT_DIR$/src/main/array/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/array/arrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/array/restargument.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/clone/clone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/array-function/17-商品查询案例-利用数组新增方法操作数据.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/array-function/some-foreach.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/iconfont/iconfont(1).eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/iconfont/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/styles/tab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exersise/tab/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/function/advanced.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/function/closure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/function/closure练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/function/function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/function/recursion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/function/this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hash/set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/prototype/call.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/prototype/extension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/prototype/prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/regexp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/regexp/regexp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/speciality/iterate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/speciality/object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/speciality/trim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/strict/strict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/stringtemplate/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/class/father.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class/father.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/class/son.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class/son.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test-class.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test-class.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +66,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTTP Request" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -35,48 +82,60 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1w28CCATpsmG36kc0iT4ZLSSAun" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
     <property name="javascript.nodejs.core.library.typings.version" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-shop-manage" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebStorm-WorkSpace\ecma-script-6-course\src\main\exersise\tab" />
       <recent name="E:\WebStorm-WorkSpace\ecma-script-6-course\src" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WebStorm-WorkSpace\ecma-script-6-course\src\main\exersise\array-function" />
+      <recent name="E:\WebStorm-WorkSpace\ecma-script-6-course\src\main\exersise" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.father.js">
-    <configuration name="father.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/class/father.js" working-dir="$PROJECT_DIR$/src/main/class">
+  <component name="RunManager" selected="Node.js.set.js">
+    <configuration name="array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/array/array.js" working-dir="$PROJECT_DIR$/src/main/array">
       <method v="2" />
     </configuration>
-    <configuration name="son.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/class/son.js" working-dir="$PROJECT_DIR$/src/main/class">
+    <configuration name="arrow.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/array/arrow.js" working-dir="$PROJECT_DIR$/src/main/array">
       <method v="2" />
     </configuration>
-    <configuration name="star.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/class/star.js" working-dir="$PROJECT_DIR$/src/main/class">
+    <configuration name="restargument.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/array/restargument.js" working-dir="$PROJECT_DIR$/src/main/array">
       <method v="2" />
     </configuration>
-    <configuration name="test-class.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/test/test-class.js" working-dir="$PROJECT_DIR$/src/test">
+    <configuration name="set.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/hash/set.js" working-dir="$PROJECT_DIR$/src/main/hash">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/main/stringtemplate/template.js" working-dir="$PROJECT_DIR$/src/main/stringtemplate">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.father.js" />
-        <item itemvalue="Node.js.son.js" />
-        <item itemvalue="Node.js.test-class.js" />
-        <item itemvalue="Node.js.star.js" />
+        <item itemvalue="Node.js.set.js" />
+        <item itemvalue="Node.js.template.js" />
+        <item itemvalue="Node.js.restargument.js" />
+        <item itemvalue="Node.js.arrow.js" />
+        <item itemvalue="Node.js.array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -88,41 +147,126 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627645193174</updated>
-      <workItem from="1627645194909" duration="3475000" />
+      <workItem from="1627645194909" duration="7504000" />
+      <workItem from="1627700561775" duration="9470000" />
+      <workItem from="1627909843032" duration="759000" />
+      <workItem from="1627977619093" duration="2530000" />
+      <workItem from="1628077358985" duration="207000" />
+      <workItem from="1636772017688" duration="2151000" />
+      <workItem from="1636781264531" duration="18425000" />
     </task>
+    <task id="LOCAL-00001" summary="2021-07-30 21:00:00 es6~">
+      <created>1627650402063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627650402063</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2021-07-30 21:00:00 es6~">
+      <created>1627650491660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627650491660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021-07-30 21:00:00 es6~" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-07-30 21:00:00 es6~" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="498" y="192" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1627646643859">
+    <state x="395" y="90" key="#Inspections" timestamp="1636793527012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="192" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.824@0.0.1536.824" timestamp="1627646643859" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627650292907">
+    <state x="395" y="90" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1636793527012" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1636814965629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627650292907" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1627649804063">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636814965629" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1636814965629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627649804063" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1627649804063">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1636814965629" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1636814965629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627649804063" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1627649804062">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1636814965629" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1636814965629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627649804062" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1627649804063">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1636814965629" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1636791867987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627649804063" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1627646644192">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1636791867986">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627646644192" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1636791867986" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1636791867986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1636791867986" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.2.center" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.2.left" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.2.right" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.3.center" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.3.left" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state width="1515" height="261" key="GridCell.Tab.3.right" timestamp="1636791867987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1636791867987" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1636788338375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636788338375" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1636796426555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1636796426555" />
   </component>
 </project>

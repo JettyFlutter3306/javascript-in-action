@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>用户名验证</title>
+  <style>
+    .right {
+        color: green;
+    }
+
+    .wrong {
+        color: red;
+    }
+  </style>
+</head>
+<body>
+
+<label>
+  <span>用户名: </span>
+  <input type="text" placeholder="请输入用户名" id="username">
+  <span id="result"></span>
+</label>
+
+</body>
+</html>
+<script>
+  let reg = /^[a-zA-Z0-9_-]{3,16}$/
+
+  let userEL = document.querySelector('#username')
+  let span = document.querySelector('#result')
+
+  userEL.onblur = function () {
+      if (reg.test(this.value)) {
+          span.className = 'right'
+          span.innerHTML = '输入正确'
+      } else {
+          span.className = 'wrong'
+          span.innerHTML = '输入有误'
+      }
+  }
+
+</script>
